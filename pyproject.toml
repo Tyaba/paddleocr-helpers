@@ -3,11 +3,6 @@ name = "paddleocr-helpers"
 version = "1.0.0"
 description = ""
 authors = ["Tyaba <tepei@keio.jp>"]
-packages = [
-    { include = "paddleocr_tools", from = "src" },
-    { include = "paddleocr_ppstructure", from = "src" },
-    { include = "paddleocr_pporc", from = "src" },
-]
 
 [tool.poetry.dependencies]
 python = "^3.10"
