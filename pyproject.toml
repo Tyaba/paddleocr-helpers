@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "paddleocr-tools"
-version = "0.1.0"
+name = "paddleocr-helpers"
+version = "1.0.0"
 description = ""
 authors = ["Tyaba <tepei@keio.jp>"]
 packages = [
